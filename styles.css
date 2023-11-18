@@ -1,0 +1,55 @@
+/* styles.css */
+
+  
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav ul li {
+    display: inline;
+    margin-right: 20px;
+  }
+  body {
+    font-family: fantasy;
+    background-color: #f4f4f4;
+    margin: 20px;
+    padding: 0;
+    background-image: url(https://media0.giphy.com/media/aRZ4vTsHnyW6A/giphy.webp?cid=ecf05e47gy27e4u39qz9z2lw70dixg3w0bjtlcock69o99w1&ep=v1_gifs_search&rid=giphy.webp&ct=g);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+p {
+    color: rgb(33, 107, 255);
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h2 {
+    color: cornflowerblue;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h3 {
+  color: cornflowerblue;
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+header {
+    color: rgb(0, 81, 232);
+    text-align: center;
+    padding: 1em 0;
+}
+
+h1 {
+    font-size: 2em;
+}
+
+p {
+    line-height: 1.6;
+}
